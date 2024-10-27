@@ -1,4 +1,5 @@
 # RAYAN-AI-CONTEST
+Rayan International AI Summit: Compete for Innovation and $35,000 : https://ai.rayan.global/
 # Challenge explanation :
 # Teeth Segmentation
 ## Introduction:
